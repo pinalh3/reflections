@@ -3,3 +3,5 @@ What value do you think it offers?
 
 Is a stand between the change and the commit
 It allows you to evaluate changes prior t commits
+
+Together we stand
