@@ -4,4 +4,7 @@ What value do you think it offers?
 Is a stand between the change and the commit
 It allows you to evaluate changes prior t commits
 
-Together we stand
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+You can stage one chage at a time just to commit one logical change at a time
